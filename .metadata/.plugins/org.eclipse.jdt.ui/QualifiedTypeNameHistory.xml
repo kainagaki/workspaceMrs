@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="mrs.domain.model.ReservableRoomId"/>
+    <fullyQualifiedTypeName name="mrs.domain.model.Reservation"/>
+    <fullyQualifiedTypeName name="mrs.domain.service.reservation.UnavailableReservationException"/>
+    <fullyQualifiedTypeName name="org.hibernate.UnsupportedLockAttemptException"/>
+    <fullyQualifiedTypeName name="mrs.domain.service.reservation.AleadyReservedException"/>
+    <fullyQualifiedTypeName name="mrs.domain.model.RoleName"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
+    <fullyQualifiedTypeName name="mrs.app.reservation.EndTimeMustBeAfterStartTime"/>
+    <fullyQualifiedTypeName name="mrs.app.reservation.ThirtyMinutesUnit"/>
+    <fullyQualifiedTypeName name="javax.persistence.LockModeType"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Lock"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.HttpSecurityBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.crypto.password.PasswordEncoder"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.EnableWebSecurity"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="mrs.domain.service.user.ReservationUserDetailsService"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.annotation.AuthenticationPrincipal"/>
+    <fullyQualifiedTypeName name="org.springframework.security.access.AccessDeniedException"/>
+</qualifiedTypeNameHistroy>
